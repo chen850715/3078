@@ -2,6 +2,6 @@
 #include <stdlib.h>
 main()
 {
-    printf("HELLO2\n");   
+    printf("HELLO00000002\n");   
     system("pause");  
 }
